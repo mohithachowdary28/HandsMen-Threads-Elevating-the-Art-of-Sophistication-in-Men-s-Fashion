@@ -1,0 +1,22 @@
+Project Title: HandsMen Threads – Create Batch Apex
+Platform: Salesforce CRM | Apex | Flow Builder | Developer Console
+
+Description:
+As part of the "HandsMen Threads" project, I developed a custom Batch Apex class to efficiently process large datasets asynchronously within the Salesforce platform. This implementation supported the brand’s backend data automation for managing high-volume records related to fashion product logistics and order processing.
+
+Key Contributions:
+
+Created a reusable Batch Apex class using the Database.Batchable interface.
+
+Accessed and modified Salesforce data using SOQL queries and DML operations in Apex.
+
+Designed and tested logic using the Developer Console and Anonymous Apex blocks.
+
+Applied best practices such as bulk-safe operations, governor limit awareness, and error handling.
+
+Documented the code and added inline comments for maintainability and clarity.
+
+Contributed to project progress and worked collaboratively in an agile task-based environment with SkillWallet.
+
+Outcome:
+Achieved scalable data processing within governor limits and improved automation of backend processes for the e-commerce workflow.
